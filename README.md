@@ -1,2 +1,1 @@
-# Plantilla-Proyecto-Pro-C159
-MUNDO DE LAS HISTORIETAS ETAPA 3
+# Proyecto para después de la clase C159
